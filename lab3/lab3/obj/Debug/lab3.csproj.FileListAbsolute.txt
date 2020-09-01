@@ -1,0 +1,11 @@
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.Form2.resources
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Roza\source\repos\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Roza\source\repos\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Roza\source\repos\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Roza\source\repos\lab3\lab3\obj\Debug\lab3.pdb
